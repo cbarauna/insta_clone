@@ -1,4 +1,4 @@
-# insta_clone
+# Insta Clone
 
 Aplicação feita seguindo passos apresentado no vídeo da <a href="https://www.youtube.com/watch?v=2nXsLpUCO20">RocketSeat</a>.
 Aplicação é um clone do feed do instagram.
@@ -8,7 +8,7 @@ Foi utilizado conceitos de preloading de imagens com blur, lazy loading, scroll 
 
 Para servir os dados foi utilizado o JSON Server
 
-<h1> Screen </h1>
+# Screen 
 
-<img src="screen\screen_1.png">
-<img src="screen\screen.png">
+![](screen/screen_1.png)
+![](screen/screen.png)
